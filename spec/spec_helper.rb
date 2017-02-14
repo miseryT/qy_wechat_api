@@ -24,7 +24,7 @@ corpsecret = "u5s-30Egqpn0RBOM3Y1XdKvrBqtGVvGk7LtR0MZKXZ0"
 
 
 # Comment to test for ClientStorage
-redis = Redis.new(:host => "127.0.0.1",:port => "6379")
+redis = Redis.new(:host => "0.0.0.0",:port => "8080")
 
 namespace = "qy_wechat_api:redis_storage"
 
