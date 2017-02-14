@@ -19,8 +19,8 @@ require "redis"
 
 require "qy_wechat_api"
 require "pry-rails"
-corpid = "wxb9ce1d023fe6eb69"
-corpsecret = "UOofFIah4PVLmkG8xMH3lpDxj6NTnQSKMrFt-HubiPB4kjB09EmTVcUjgNeermps"
+corpid = "WWb9d32f7fb8183647"
+corpsecret = "u5s-30Egqpn0RBOM3Y1XdKvrBqtGVvGk7LtR0MZKXZ0"
 
 
 # Comment to test for ClientStorage
